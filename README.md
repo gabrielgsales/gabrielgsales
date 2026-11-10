@@ -11,6 +11,9 @@
 ## 🌐 Where to find me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-sales-1ba501284/">
+ </a>
+<p align="left">
   <a href="https://github.com/gabrielgsales">
     <img src="https://img.shields.io/badge/GitHub-gabrielgsales-181717?style=for-the-badge&logo=github" />
   </a>
@@ -39,12 +42,6 @@ Linux · Windows · Technical Support
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
