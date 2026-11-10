@@ -11,7 +11,7 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-sales-1ba501284/">
+  <a href="https://linkedin.com/in/gabriel-sales-1ba501284/">
  </a>
 <p align="left">
   <a href="https://github.com/gabrielgsales">
