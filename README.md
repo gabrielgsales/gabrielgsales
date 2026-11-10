@@ -1,14 +1,10 @@
 # Hi 👋🏻, Im Gabriel Sales
 
-💻 **Junior Software Engineer
-Python & SQL 
-
+🎓 Computer Science student at UniFAJ
+💻 Interested in Software Development and IT
+🐍 Python | SQL | C/C++ | C#
+🛠️ Building academic projects with APIs, AI, Machine Learning and Unity
 🇧🇷 Brazil
-
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ---
 
@@ -21,25 +17,23 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🧠 What I do
-
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
-
----
-
 ## 🛠️ Tech Stack
 
-### Frontend
+Programming
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+Python · C · C++ · C# · SQL
 
+Development
+
+FastAPI · REST APIs · Unity · Git/GitHub
+
+Data & AI
+
+Machine Learning · Scikit-learn · Data Processing
+
+Systems
+
+Linux · Windows · Technical Support
 
 ### Backend
 
@@ -50,7 +44,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ### DevOps & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
